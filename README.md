@@ -17,8 +17,7 @@ The documentations on the files (Excel and MS Word) cover the following;
 the underlying assumptions of the analysis, 
 the functions applied and steps followed, 
 calculated columns created and formulas used,  
-the Pivot Table used and results obtained
-an Interactive Dashboard.
+the Pivot Table used and an Interactive Dashboard.
 
 ### CONCLUSION
 Due care and deligence were put into the analysis to ensure that results obtainened are error-free and true picture of the transactions that took place in the period under review.

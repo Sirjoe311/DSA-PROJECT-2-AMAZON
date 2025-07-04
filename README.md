@@ -19,6 +19,22 @@ the functions applied and steps followed,
 calculated columns created and formulas used,  
 the Pivot Table used and an Interactive Dashboard.
 
+For instance, See some of the visuals contained the files
+
+![image](https://github.com/user-attachments/assets/0d909138-b3c7-4dd6-bcaf-e7f5b1f2773d),  ![image](https://github.com/user-attachments/assets/c30313ba-902d-4df7-a92a-03b388e3bc90)
+
+![image](https://github.com/user-attachments/assets/12e8f88a-a2ea-4f3e-ab4a-24472f9a647f),  ![image](https://github.com/user-attachments/assets/ace258ff-84ed-4b1f-b26b-c255a50c660f)
+
+### SKILLS AND COMPETENCIES
+The skills and competencies demonstrated through the analysis include;
+
+Analytical skill ie the ability to process data and derive useful insights for decision making.
+
+Data transforming/cleaning skill ie the ability to correct errors or inconsistencies in dataset, removed non-relevant info, and extract only relevant information in a given dataset.
+
+Visualisation skill ie the ability to use diagrams like Charts, Cards, Maps etc to communicate information in a clear, simple and summarised format.
+
+
 ### CONCLUSION
 Due care and deligence were put into the analysis to ensure that results obtainened are error-free and true picture of the transactions that took place in the period under review.
 However, that is not to say that the work is perferct. Therefore, constructive criticism of the analysis, insightful contribution, and sincere commendation are welcome.
